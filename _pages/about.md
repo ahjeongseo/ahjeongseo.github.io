@@ -2,23 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Samsung Research</a> <br> rubyrang2@snu.ac.kr
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+others: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm a researcher at <a href="https://research.samsung.com/">Samsung research</a>, Korea.
+In Samsung Research, I've worked on machine learning and natural language processing, especially dealing with a search engine and large-scale AI applications.
+Before working for Samsung, I got my Master's degree from Seoul National University, 
+advised by professor <a href="https://bi.snu.ac.kr/~btzhang/">Byoung-Tak Zhang</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[//]: # (Nowadays, my primary research interest is to develop robustly reasoning AI beyond generalization. Especially, I’m)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[//]: # (interested in structured and disentangling inference with graph-based structure in NLP domain.)
+
+<br><br>
+Additionally, if you have time please visit <b><a href="https://ahjeong.tistory.com">my AI tech blog</a></b> :D (In Korean)
+Thank you for visiting my homepage!
