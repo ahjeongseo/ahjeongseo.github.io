@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Samsung Research</a> <br> rubyrang2@snu.ac.kr
+subtitle: <a href='https://research.samsung.com/'>Samsung Research</a> <br> rubyrang2@snu.ac.kr
 
 profile:
   align: right
@@ -23,7 +23,7 @@ Especially, I'm interested in the explicit and robust reasoning process via trav
 In Samsung Research, I've researched how to complement the reasoning limitations of large-scale models as well as improved a content search engine to consider both lexical and semantic clues in queries.
 Before working for Samsung, I got my Master's degree from Seoul National University, 
 advised by professor <a href="https://bi.snu.ac.kr/~btzhang/">Byoung-Tak Zhang</a>. 
-While Master's degree, I researched how to robustly and explicitly reason via structuring information in a VideoQA task based on interdisciplinary knowledge.
+While Master's degree at <a href="https://bi.snu.ac.kr/">BI Lab</a>, I researched how to robustly and explicitly reason via structuring information in a VideoQA task based on interdisciplinary knowledge.
 
 <br>
 Additionally, if you have time please visit <b><a href="https://ahjeong.tistory.com">my AI tech blog</a></b> :D (In Korean) <br>
